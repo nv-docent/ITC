@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //Подключение библиотеки iostream
 #include <cmath>
 int main()
 {
